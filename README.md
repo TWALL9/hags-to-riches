@@ -1,0 +1,1 @@
+The chronicles of a bunch of dinguses trying to make a quick buck in the hardscabble capitalist weirdball that is faerun

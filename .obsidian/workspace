@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "episodes/ep01 - who is this sassy lost child.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/ep01 - who is this sassy lost child.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "ca6a2d39c82b0599",
   "lastOpenFiles": [
+    "Untitled.md",
     "episodes/ep01 - who is this sassy lost child.md",
     "episodes/ep03 - sapphires, scrimshaw and salami.md",
     "episodes/ep02 - purple people eaters.md",
@@ -94,7 +95,6 @@
     "episodes/ep01 - can't always dipika your friends.md",
     "episodes/ep03 -.md",
     "anniths stuff/backstory.md",
-    "Untitled.md",
     "table thing.md",
     "episodes/ep03.md"
   ]
