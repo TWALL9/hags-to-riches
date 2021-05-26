@@ -7,10 +7,9 @@
         "id": "ca6a2d39c82b0599",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "maps/Sword-Coast-Map_HighRes.jpg"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "maps/Sword-Coast-Map_HighRes.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +86,15 @@
   },
   "active": "ca6a2d39c82b0599",
   "lastOpenFiles": [
+    "maps/Sword-Coast-Map_HighRes.jpg",
+    "maps/faerun.jpg",
+    "anniths stuff/backstory.md",
     "Untitled.md",
     "episodes/ep01 - who is this sassy lost child.md",
     "episodes/ep03 - sapphires, scrimshaw and salami.md",
     "episodes/ep02 - purple people eaters.md",
     "episodes/ep01 - whos lost child is this.md",
     "episodes/ep01 - can't always dipika your friends.md",
-    "episodes/ep03 -.md",
-    "anniths stuff/backstory.md",
-    "table thing.md",
-    "episodes/ep03.md"
+    "episodes/ep03 -.md"
   ]
 }
