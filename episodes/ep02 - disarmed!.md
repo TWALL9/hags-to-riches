@@ -1,4 +1,3 @@
-purple people eaters
 # the oasis
 * found Tayibbe dead on the sand
 	* bite on her is not dragon-sized

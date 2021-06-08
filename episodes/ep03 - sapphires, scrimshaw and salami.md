@@ -1,5 +1,5 @@
 # Big dragon in the way
-* Ancient blue dragon and his buddies fight off a bunch of purple worms [[ep02 - purple people eaters]]
+* Ancient blue dragon and his buddies fight off a bunch of purple worms [[ep02 - disarmed!]]
 * expect a tithe to pass through them
 * we gave them some scrimshander, Salphonse did the talking
 * Dipika really urgently wanted to hide

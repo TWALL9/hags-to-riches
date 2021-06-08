@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "episodes/ep04.md",
+            "file": "episodes/ep02 - disarmed!.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/ep04.md",
+                "file": "episodes/ep02 - disarmed!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ca6a2d39c82b0599",
   "lastOpenFiles": [
+    "episodes/ep02 - Disarmed!.md",
+    "episodes/ep03 - sapphires, scrimshaw and salami.md",
+    "episodes/ep02 - purple people eaters.md",
+    "episodes/ep01 - who is this sassy lost child.md",
     "episodes/ep04.md",
+    "people/Untitled.md",
     "maps/Sword-Coast-Map_HighRes.jpg",
     "maps/faerun.jpg",
-    "episodes/ep03 - sapphires, scrimshaw and salami.md",
     "episodes/Untitled.md",
-    "anniths stuff/backstory.md",
-    "Untitled.md",
-    "episodes/ep01 - who is this sassy lost child.md",
-    "episodes/ep02 - purple people eaters.md",
-    "episodes/ep01 - whos lost child is this.md"
+    "anniths stuff/backstory.md"
   ]
 }
