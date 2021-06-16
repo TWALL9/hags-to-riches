@@ -15,4 +15,4 @@
 	* also claims to know a lot of people there
 * we'll be her bodyguards going back up north but we'll give her a dicount
 
-# Calimshan
+* we get to calimshan

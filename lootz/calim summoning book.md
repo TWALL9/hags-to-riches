@@ -1,0 +1,3 @@
+- contains the instructions to summon calim, a genie
+- needs to be returned to [[ushan the learned]]
+- stole it with [[mutt]]

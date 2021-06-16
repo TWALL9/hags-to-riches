@@ -1,0 +1,3 @@
+- owner of a library in the quill ward
+- rather benevolent about letting people into the library
+- 

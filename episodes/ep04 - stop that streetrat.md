@@ -9,7 +9,7 @@
 			- got me lemon-scented soap
 - Our wagon is in [[mahir]] stall
 	- saved it from being stolen
-- need to find a guy named Ushan the Learned
+- need to find a guy named [[ushan the learned]]
 	- quill ward
 	- get there by going up through trades, emerald, khanduq, mage wards
 - children STOLE MY STUFF
