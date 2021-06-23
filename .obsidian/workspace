@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "episodes/ep05 - what children are these.md",
+            "file": "people/ushan the learned.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/ep05 - what children are these.md",
+                "file": "people/ushan the learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ca6a2d39c82b0599",
   "lastOpenFiles": [
-    "episodes/ep05.md",
-    "people/Untitled.md",
-    "episodes/ep04 - stop that streetrat.md",
-    "episodes/ep02 - disarmed!.md",
-    "people/party/Untitled.md",
-    "Untitled.md",
-    "lootz/Untitled.md",
-    "lootz/mahirs sword.md",
-    "episodes/ep03 - sapphires, scrimshaw and salami.md",
-    "places/calimshan.md"
+    "people/ushan the learned.md",
+    "episodes/ep06.md",
+    "anniths stuff/The List.md",
+    "anniths stuff/current infused items.md",
+    "anniths stuff/backstory.md",
+    "places/calimshan.md",
+    "anniths stuff/Untitled.md",
+    "episodes/Untitled.md",
+    "episodes/ep05 - what children are these.md",
+    "episodes/ep05.md"
   ]
 }
