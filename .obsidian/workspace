@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/ushan the learned.md",
+            "file": "episodes/ep07 - titties doin work.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/ushan the learned.md",
+                "file": "episodes/ep07 - titties doin work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ca6a2d39c82b0599",
   "lastOpenFiles": [
-    "people/ushan the learned.md",
+    "episodes/ep07 - titties doin work.md",
     "episodes/ep06.md",
-    "anniths stuff/The List.md",
     "anniths stuff/current infused items.md",
+    "episodes/ep07.md",
+    "episodes/Untitled.md",
+    "people/ushan the learned.md",
+    "anniths stuff/The List.md",
     "anniths stuff/backstory.md",
     "places/calimshan.md",
-    "anniths stuff/Untitled.md",
-    "episodes/Untitled.md",
-    "episodes/ep05 - what children are these.md",
-    "episodes/ep05.md"
+    "anniths stuff/Untitled.md"
   ]
 }
