@@ -1,0 +1,8 @@
+- owner of a library in the quill ward
+- rather benevolent about letting people into the library
+- is actually a djinn/wizard wombocombo
+- lives in his own demiplane with four djinns in his control
+- Khuumna the Deep
+- Ziddai the Ambitious
+- Ghoshiha the Open Minded
+- Dhaabu the Grounded

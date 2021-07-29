@@ -7,7 +7,7 @@
 # The hell is up with this child
 * [[dipika]] knows multiple arcane languages, like infernal and primordial
 * claims to have learned them by listening to people
-* is staying with a friend mutt in calimshan
+* is staying with a friend mutt in [[calimshan]]
 * says she's from the plains of purple dust
 	* she's actually from north of there, in murghom
 * has somehow been to brym shander
@@ -15,4 +15,4 @@
 	* also claims to know a lot of people there
 * we'll be her bodyguards going back up north but we'll give her a dicount
 
-* we get to calimshan
+* we get to [[calimshan]]

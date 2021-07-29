@@ -14,7 +14,7 @@
 	* went back for his sword
 
 # back at camp
-* Crelypsis brought back Tayibbe
+* [[crelypsis]] brought back Tayibbe
 * Annith and Salphonse went investigating for dipika 
 
 # next day in the caravan

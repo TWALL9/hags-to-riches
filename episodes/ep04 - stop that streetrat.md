@@ -15,5 +15,5 @@
 - children STOLE MY STUFF
 	- some street urchins ran off with my coin purse and my bag of holding
 	- chased them down to a door in an alley
-	- salphonse guessed that he'd ask for [[Mutt]], one of [[dipika]]'s friends
+	- salphonse guessed that he'd ask for [[mutt]], one of [[dipika]]'s friends
 		- YEAH IT'S MUTT
