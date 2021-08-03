@@ -1,3 +1,5 @@
+![[annith.png]]
+- human artificer
 - grew up in what is essentially the human suburb of Gauntlgrym
 - lots of dwarfbros growing up
 - studied under a dwarf smith and tinker, Graz'lbrum (Graz) Katalbruzn

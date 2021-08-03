@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b769b5a1ed53f392",
+        "id": "3dcc45466cc1d39a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lootz/mahirs sword.md",
+            "file": "episodes/ep09.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lootz/mahirs sword.md",
+                "file": "episodes/ep09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b769b5a1ed53f392",
+  "active": "3dcc45466cc1d39a",
   "lastOpenFiles": [
-    "lootz/mahirs sword.md",
-    "episodes/ep02 - disarmed!.md",
-    "episodes/ep01 - who is this sassy lost child.md",
+    "episodes/ep09.md",
     "episodes/ep04 - stop that streetrat.md",
-    "episodes/ep05 - what children are these.md",
-    "episodes/ep06 - the taste of magic.md",
+    "episodes/ep03 - sapphires, scrimshaw and salami.md",
+    "people/party/salphonse.md",
     "episodes/ep08 - split the party.md",
-    "episodes/ep07 - titties doin work.md",
-    "people/party/annith.md",
-    "anniths stuff/backstory.md"
+    "episodes/Untitled.md",
+    "Untitled.md",
+    "maps/calimport.jpg",
+    "lootz/mahirs sword.md",
+    "lootz/calim summoning book.md"
   ]
 }

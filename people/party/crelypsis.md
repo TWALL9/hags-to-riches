@@ -1,3 +1,5 @@
+![[crelypsis.png]]
+- tiefling monk
 - grew up in black raven monestary
 - she had a friend named merethil 
 	- [[ep08 - split the party#crelypsis in the other wards]]

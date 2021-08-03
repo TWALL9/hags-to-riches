@@ -1,10 +1,11 @@
-# salphonse in the grand ward (aka louis vitton sidewalks)
+# Salphonse in the grand ward (aka louis vitton sidewalks)
 - salphonse and kay are lead there by Some Dude
 - Salphonse gettin wined and dined with Joe Rogan Elk Meat Fantasy Burritos
 	- burrito in one hand and bottle of wine in the other
 - after waiting, Salphonse is taken to see two snakey people
 	- Anush -> mostly human (some kind of yuan-ti), he's got pet cobras
 	- Ezshezhu -> half snake lamia-naga dealio (yuan-ti malison)
+	- "pleased that you have received their summons"
 	
 # Kay in the dock ward
 - She's here to find us a boat to sail back to Brimshambles
@@ -18,7 +19,7 @@
 |:---------------- |:---------------- |:-------- |:--------------------- |
 | rastran          | luskan           | 100gp/pp | 4 days                |
 | murph and squirt | luskan/waterdeep | 90gp/pp  | 3 days                |
-
+- are murph and squirt from storm king's thunder?
 # annith and crelypsis in the makers ward
 - meet up with [[mahir]]
 	- asks [[crelypsis]] to check out his [[mahirs sword]] to find what the deal is with the geometric makers mark
