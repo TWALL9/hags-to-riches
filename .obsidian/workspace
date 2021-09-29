@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "episodes/ep10 - all in all it's another hole in the wall.md",
+            "file": "episodes/ep11 - \"you seem like the experimental type\".md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7529833167d1e0d7",
+        "id": "cd05f65824aaf325",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/calimshan/Washma Haja.md",
-            "mode": "source"
+            "file": "episodes/ep11 - \"you seem like the experimental type\".md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/ep10 - all in all it's another hole in the wall.md",
+                "file": "episodes/ep11 - \"you seem like the experimental type\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "3dcc45466cc1d39a",
   "lastOpenFiles": [
-    "episodes/ep10 - all in all it's another hole in the wall.md",
-    "people/calimshan/Washma.md",
-    "people/calimshan/Untitled.md",
-    "episodes/ep10.md",
-    "anniths stuff/current infused items.md",
+    "episodes/ep11 - \"you seem like the experimental type\".md",
     "episodes/ep09 - Yann and Yuan.md",
-    "episodes/ep09.md",
-    "episodes/Untitled.md",
-    "episodes/ep04 - stop that streetrat.md",
-    "episodes/ep03 - sapphires, scrimshaw and salami.md"
+    "episodes/ep08 - split the party.md",
+    "episodes/ep11 -.md",
+    "anniths stuff/current infused items.md",
+    "episodes/ep10 - all in all it's another hole in the wall.md",
+    "anniths stuff/The List.md",
+    "anniths stuff/wagon.md",
+    "anniths stuff/backstory.md",
+    "people/calimshan/Washma Haja.md"
   ]
 }

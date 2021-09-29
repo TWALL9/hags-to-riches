@@ -1,1 +1,3 @@
 - head monk of monastery that crelypsis is interested in
+- teaches [[crelypsis]] how to use the chakram
+- 
