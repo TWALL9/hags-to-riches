@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "episodes/ep11 - \"you seem like the experimental type\".md",
+            "file": "episodes/ep12 - eldritch nonsense.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cd05f65824aaf325",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "episodes/ep11 - \"you seem like the experimental type\".md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/ep11 - \"you seem like the experimental type\".md",
+                "file": "episodes/ep12 - eldritch nonsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +97,15 @@
   },
   "active": "3dcc45466cc1d39a",
   "lastOpenFiles": [
+    "episodes/ep12 -.md",
+    "people/toy soldiers/audre.md",
+    "people/party/annith.md",
+    "anniths stuff/backstory.md",
+    "Untitled.md",
     "episodes/ep11 - \"you seem like the experimental type\".md",
     "episodes/ep09 - Yann and Yuan.md",
     "episodes/ep08 - split the party.md",
     "episodes/ep11 -.md",
-    "anniths stuff/current infused items.md",
-    "episodes/ep10 - all in all it's another hole in the wall.md",
-    "anniths stuff/The List.md",
-    "anniths stuff/wagon.md",
-    "anniths stuff/backstory.md",
-    "people/calimshan/Washma Haja.md"
+    "anniths stuff/current infused items.md"
   ]
 }

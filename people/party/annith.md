@@ -9,4 +9,5 @@
 	- bought the wagon from him
 - has a taste for inebriants
 	- claims to do her best work while a little buzzed
+- canonically bi???
 - 
