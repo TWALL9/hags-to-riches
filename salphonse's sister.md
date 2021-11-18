@@ -1,0 +1,3 @@
+- slave of some kind of merchant
+- the streetpaws have the guy's name in the emerald ward
+	- jashe usab?

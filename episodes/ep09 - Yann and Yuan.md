@@ -1,5 +1,5 @@
 # Salphonse and the Snakeybois
-- The two Yuan-ti from [[ep08 - split the party#Salphonse in the grand ward aka louis vitton sidewalks]] invite him to sit down
+- The two Yuan-ti from [[ep08 - louis vitton sidewalks#Salphonse in the grand ward aka louis vitton sidewalks]] invite him to sit down
 - offers [[salphonse]] the ability to sell their stuff in the [[calimshan#Grand Ward]]
 - they seem quite powerful but extremely untrustworthy
 - [[yann]] seems into it

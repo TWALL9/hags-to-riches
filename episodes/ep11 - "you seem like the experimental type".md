@@ -5,7 +5,7 @@
 	- it does not go well (literally 3 nat 1's in a row)
 	- annith resolves herself to not fight monks ever again
 
-# We're meeting Transmuter Henry the airship philosopher
+# Transmuter Henry the airship philosopher
 - [[ep09 - Yann and Yuan#Kay back on the docks]]
 - He invited Kay over to do weird magical stuff earlier today
 - his place is inexplicably luxurious, are the yuan-ti paying for this as well?
