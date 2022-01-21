@@ -1,10 +1,10 @@
-# Salphonse and the Snakeybois
+# [[Salphonse]] and the Snakeybois
 - The two Yuan-ti from [[ep08 - louis vitton sidewalks#Salphonse in the grand ward aka louis vitton sidewalks]] invite him to sit down
 - offers [[salphonse]] the ability to sell their stuff in the [[calimshan#Grand Ward]]
 - they seem quite powerful but extremely untrustworthy
 - [[yann]] seems into it
 
-# Kay back on the docks
+# [[kay lieri]] back on the docks
 - investigating more captains 
 - Dorsalis is a tiefling captain/corsair
 	- runs a tight ship but we just need to stay out of the way
@@ -29,7 +29,7 @@
 	- "traveling the lands"
 	- he's got a crew and is just kind of traveling around
 
-# Annith and Tinker
+# [[Annith]] and Tinker
 - starts learning with the toy soldiers about how Tinker works
 - her theory is that there's some kind of animating force making tinker act autonomously like it does
 	- like a ghost or a spirit, [[audre]] is interested in that

@@ -1,4 +1,5 @@
 ![[annith.png]]
+- Annith Murthren
 - human artificer
 - grew up in what is essentially the human suburb of Gauntlgrym
 - lots of dwarfbros growing up
@@ -9,5 +10,5 @@
 	- bought the wagon from him
 - has a taste for inebriants
 	- claims to do her best work while a little buzzed
-- canonically bi???
+- canonically bi
 - 

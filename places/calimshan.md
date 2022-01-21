@@ -1,4 +1,3 @@
-![[calimport 1.jpg]]
 # undercity
 - avoid the southeastern third of the city
 	- under the maker, quill and wizard wards
@@ -24,3 +23,5 @@
 - all the cool artificer stuff that annith could want
 
 # crypt ward
+- castes of the city are refected in different sabbans even in this ward
+- 

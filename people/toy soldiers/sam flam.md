@@ -1,2 +1,4 @@
 [insert picture]
-mech guy
+* mech guy
+* pissed off at annith and audre for wrecking tinker
+* 

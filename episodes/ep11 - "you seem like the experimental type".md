@@ -5,7 +5,7 @@
 	- it does not go well (literally 3 nat 1's in a row)
 	- annith resolves herself to not fight monks ever again
 
-# Transmuter Henry the airship philosopher
+# [[Transmuter Henry]] the airship philosopher
 - [[ep09 - Yann and Yuan#Kay back on the docks]]
 - He invited Kay over to do weird magical stuff earlier today
 - his place is inexplicably luxurious, are the yuan-ti paying for this as well?
@@ -25,23 +25,23 @@
 	- somewhere southeast of Icewind Dale
 
 # the next day
-# crelypsis decides to be snake food
+# [[crelypsis]] decides to be snake food
 - or a slave
 - she visits the yuan ti to help [[yann]] with the creative direction and be an assisstant
 - Ezshezhu the snakeyboi keeping an eye on her, pretty threatening dude ngl
 - starts rough but crelypsis figures it out
 
-# annith and [[audre]], sitting in a restaurant, not k-i-s-s-i-n-g
+# [[annith]] and [[audre]], sitting in a restaurant, not k-i-s-s-i-n-g
 - how does she know dipika?
 	- "such an adorable helper"
 - apparenlty there's always a change of going to jail for construct battles
 - annith literally cannot get the hint that audre may have a thing for her
-	- ![[Pasted image 20210928212537.png]] 
+	- ![[insight 1.png]] 
 - later on, annith meets audre at the restaurant, 
 	- doesn't see anything amiss
 - *suddenly, annith finally gets it*
 	- and has no idea how to react
-	- like HOW ![[Pasted image 20210928215713.png]]
+	- like HOW ![[insight 2.png]]
 - who's the scheduled opponent?  No idea.
 	- Called "The Scarecrow"
 

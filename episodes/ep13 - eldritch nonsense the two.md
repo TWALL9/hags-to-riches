@@ -8,7 +8,7 @@
 	- crelypsis manages to uppercut one
 - the portal looks like it's getting stitched together
 
-# Annith is stuck on the ground
+# [[Annith]] is stuck on the ground
 - she's pinned under some kind of unspeakable bird monster
 	- called a riftling
 - tinker is also unhappy.  
@@ -33,8 +33,8 @@
 - the dragons break the airship apart, but catch it?
 	- the gelatinous cube first mate catches henry, but he splatters all over the ground, becoming a tiny gelatinous cube
 
-# thanks you too
-- after all this nonsense, Annith finds audre is returned to normal, and tinker is reduced to a pile of broken parts on the ground
+# thanks, you too
+- after all this nonsense, Annith finds audre is returned to normal, and tinker is reduced to a pile of broken parts on the ground ^195679
 - apparently his powers are fueled by heroic emotions?
 - the silpasha is granting us a *thing*, basically a wish within his power
 	- we're using it to get [[salphonse's sister]]
