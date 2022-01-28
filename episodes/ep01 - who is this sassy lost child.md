@@ -1,1 +1,0 @@
-Can't always dipika your friends

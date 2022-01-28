@@ -1,4 +1,0 @@
-- flying boat
-	- saw one in [[calimshan]]
-	- it's from halrun
-	- 

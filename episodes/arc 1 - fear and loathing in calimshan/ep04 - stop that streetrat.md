@@ -1,0 +1,19 @@
+# Calimport
+- need to find a khanduq
+	- large center for business and trade
+	- can purchase safe storage
+		- but we have the bag of holding
+	- can purchase stuff
+		- mostly luxury goods?
+		- nice soaps and shampoos
+			- got me lemon-scented soap
+- Our wagon is in [[mahir]] stall
+	- saved it from being stolen
+- need to find a guy named [[ushan the learned]]
+	- quill ward
+	- get there by going up through trades, emerald, khanduq, mage wards
+- children STOLE MY STUFF
+	- some street urchins ran off with my coin purse and my bag of holding
+	- chased them down to a door in an alley
+	- salphonse guessed that he'd ask for [[mutt]], one of [[dipika]]'s friends
+		- YEAH IT'S MUTT
