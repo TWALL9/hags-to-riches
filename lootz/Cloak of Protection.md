@@ -1,0 +1,3 @@
+- found in dougan's hole in [[ep16 - woerm sin]]
+-  You gain a +1 bonus to AC and [Saving Throws](https://roll20.net/compendium/dnd5e/Saving%20Throws#h-Saving%20Throws) while you wear this cloak.
+- 

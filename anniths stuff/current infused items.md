@@ -1,4 +1,4 @@
 - [X] bag of holding
 - [ ] auto-repeating crossbow with magic ammo
-- [x] sending stones - with the street paws
+- [ ] sending stones - with the street paws
 - [ ] improved arcane focus
