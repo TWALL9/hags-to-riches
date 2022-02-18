@@ -9,4 +9,4 @@
 - officially: "The inn's accommodations are lackluster, with small rooms and minimal, dirty, furnishing. The place is popular among travelers who wished to avoid too much excitement."
 - dope bar, annith loves it
 - run by a woman named myrtle
-- 
+
