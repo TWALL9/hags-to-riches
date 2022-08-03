@@ -33,6 +33,7 @@
 * spark (the zap guy) is being sexist and only talking to sal
 	* crel, kay and annith decide "fuck this guy, we're proving this place isn't haunted"
 * spark wants to prove the place is haunted, for his own gain, crannoc wants to prove it's not, because he lives there
+* the castle is covered in vines, with the phrase "DON'T TOUCH" burned into the walls
 * annith and crel aren't very successful at getting stories from the locals, but annith is successful in getting the gate to the caer opened by physics and a lever
 * after we reach the second floor of the keep, we find crannoc bleeding out in his bed
 	* he's injured, something attacked him and he barricaded himself in his bedroom
