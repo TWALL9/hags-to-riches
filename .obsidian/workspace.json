@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "097f8aec72506a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93c8a97a3fd0a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d9c3cc1843a34f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "episodes/arc 2 - unreal estate/ep27 - howling moving castle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81dd2ce68c26c209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anniths stuff/current infused items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c55e782d53c0f7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a9ab585493bbc5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "270814105bd2ce77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b39bd4445af2b08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34c8e2442fe78053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "letter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391
+  },
+  "right": {
+    "id": "0b7d3397b7370df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "13af49dac871c472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53a01ae0ff06d9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "episodes/arc 2 - unreal estate/ep27 - howling moving castle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8676a93875cdceb7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d4d9c3cc1843a34f",
+  "lastOpenFiles": [
+    "episodes/arc 2 - unreal estate/ep26 - \"it's a magical sibling map\".md",
+    "anniths stuff/current infused items.md",
+    "episodes/arc 2 - unreal estate/ep27 - howling moving castle.md",
+    "lootz/bendy straw of reinvigoration.md",
+    "episodes/arc 2 - unreal estate/ep25 - stardew dwarvalley.md",
+    "people/burrowfist brothers.md",
+    "anniths stuff/steel defenders/craft-brew.gif",
+    "anniths stuff/steel defenders/craft-brew-2.jpg",
+    "anniths stuff/steel defenders/craft-brew-1.jpg",
+    "anniths stuff/steel defenders/craft-boat.png"
+  ]
+}
