@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52f4f8030dcb9d30",
+            "id": "8cd47cdd50d5ad0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep32 - robot rap battle aka will the real swim shady please stand up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e54fc2bf42fc0bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep33 - more like sham flam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8035e0a8a26582e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep31 - the wicker man.md",
+                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep33 - more like sham flam.md",
+                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep33 - more like sham flam.md"
+                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md"
               }
             }
           }
@@ -148,17 +123,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9b39bd4445af2b08",
+  "active": "8cd47cdd50d5ad0e",
   "lastOpenFiles": [
+    "maps/sword coast.jpg",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
+    "anniths stuff/ideas for new battlebot.md",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep31 - the wicker man.md",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep33 - more like sham flam.md",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep17 - do medusas multitask with snakes.md",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep19 - lumberjack fantasies.md",
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep20 - murder mystery.md",
     "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep32 - robot rap battle aka will the real swim shady please stand up.md",
     "episodes/arc 1 - fear and loathing in calimshan/ep10 - all in all it's another hole in the wall.md",
     "episodes/arc 1 - fear and loathing in calimshan/ep11 - you seem like the experimental type.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep31 - the wicker man.md",
     "anniths stuff/questz-n-shit.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep23 - skrappy doo artificing.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep25 - stardew dwarvalley.md",
-    "people/toy soldiers/sam flam.md",
-    "places/caer konig.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep28 - ancient tomb of ambiguous purpose.md"
+    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep23 - skrappy doo artificing.md"
   ]
 }
