@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
+                "file": "episodes/arc 3 -/ep34 - big k's big day.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1da15538d60b1ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "462e8d4a057a74d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/boat/boat crew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sam flam",
+                "query": "path of hogg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
+                "file": "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md"
+                "file": "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md"
               }
             }
           }
@@ -123,20 +148,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cd47cdd50d5ad0e",
+  "active": "1da15538d60b1ee2",
   "lastOpenFiles": [
+    "people/boat/boat crew.md",
+    "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
+    "episodes/arc 3 -/ep34 - big k's big day.md",
+    "episodes/arc 2 - unreal estate/ep33 - more like sham flam.md",
+    "lootz/teleportation scroll.md",
+    "people/kreshenn.md",
+    "episodes/arc 2 - unreal estate/ep31 - the wicker man.md",
+    "people/boat",
+    "episodes/arc 3 -",
     "maps/sword coast.jpg",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep34 - big k's big day.md",
     "anniths stuff/ideas for new battlebot.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep31 - the wicker man.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep33 - more like sham flam.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep17 - do medusas multitask with snakes.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep19 - lumberjack fantasies.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep20 - murder mystery.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep32 - robot rap battle aka will the real swim shady please stand up.md",
+    "episodes/arc 2 - unreal estate/ep17 - do medusas multitask with snakes.md",
+    "episodes/arc 2 - unreal estate/ep19 - lumberjack fantasies.md",
+    "episodes/arc 2 - unreal estate/ep20 - murder mystery.md",
+    "episodes/arc 2 - unreal estate/ep32 - robot rap battle aka will the real swim shady please stand up.md",
     "episodes/arc 1 - fear and loathing in calimshan/ep10 - all in all it's another hole in the wall.md",
     "episodes/arc 1 - fear and loathing in calimshan/ep11 - you seem like the experimental type.md",
     "anniths stuff/questz-n-shit.md",
-    "episodes/arc 2 - unreal estate (end when we leave icewind dale)/ep23 - skrappy doo artificing.md"
+    "episodes/arc 2 - unreal estate/ep23 - skrappy doo artificing.md"
   ]
 }

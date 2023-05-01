@@ -1,0 +1,3 @@
+- received from [[kreshenn]] during his big day [[ep34 - big k's big day]]
+- originally as a means to escape yartar back to wherever we need to go, but kept just in case we need it
+- 

@@ -1,0 +1,5 @@
+- aka Big K
+- former zhentyboi agent, now hated by everyone
+- in deep with The Kobal
+	- some kind of kobold resistance?
+- directly blew up yartar in [[ep34 - big k's big day]]
