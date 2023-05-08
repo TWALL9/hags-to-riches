@@ -1,0 +1,80 @@
+# fuck it, we ride with or without her
+- after discovering aurae is missing, spark is basically like "fuck it, if she's not here then she's not here"
+	- but he's acting weird in the first place, so maybe he's been replaced by aurae?
+- none of our stuff appears to be here
+- sal talks to Boy
+	- learns that some argument happened between captain and aurae
+- attempting to detect magic on spark
+	- annith finds an amulet on him, radiating protective magic
+	- likely the same one that sal found last night
+	- he's fidgeting with it, like he's afraid
+- annith also talks to the gunnery sargeant
+	- he says this is the first time that he's left someone behind like this
+	- seems to agree with annith that this isn't right, and is more or less attempted murder
+		- because unless she's good at hiding it, aurae wouldn't last very long
+- kaye asks the cook the same questions
+	- cook says that the captain deserves better, good riddance
+- crelypsis talks to the bosun
+	- mentions he heard a strange noise last night.  like an animal struggle in the brush
+- sal talks to navigator
+	- he's unsure of what he's doing
+	- did hear the disagreement from the captain's tent but couldn't make out the specifics
+- kaye talks to kip
+	- he stands by the captain
+		- acting like he would after a breakup
+	- he thinks it's odd that she would leave
+- annith talks to spark again
+	- appeals to his humanity, tells him that he'll have to be okay with lying to his superiors that someone on his boat potentially died and maybe lying about telling her to leave
+	- HE TURNS THIS BOAT AROUND
+- literally turns the boat around in a river
+	- takes ages to get back to where we were
+- eventually arrive to where we started
+
+# mystery machine sneaky search team
+- everyone's on the shore except the cook, gunnery sargeant and kip, looking for aurae
+- kay notices that boy fucks off at some point
+- crelypsis finds a corpse
+	- IT'S BOY
+	- strangled to death 12 hours ago
+- someone killed boy and took his place
+- during the time that we found boy's body, nobody else disappeared, so it's one of the 3 that remained
+	- cook
+	- gunnery sargeant
+	- kip
+- we come up with codewords to determine who is an impostor
+	- except for the people who stayed on the boat, they're suspects
+- annith tells the cook that boy died
+	- she did not take it well but appears truthful
+- sal talks to the gunnery sargeant
+	- he's doing some kind of puzzle, but not well
+	- sal tells him about hte codewords, but one specific to him
+	- then tells the guy to make more, and he jumps up and runs up decks
+	- eventually returns to his room
+- kay talks to kip
+	- had to stay on the boat to stay for an urgent thing (bathroom)
+	- he's a bit suspect
+	- says he could have swore he heard boy on the boat
+- sal offers soup to the gunnery sargeant
+	- detects a ton of illusion magic on him
+		- under his bed
+	- he's pacing back and forth belowdecks, but not interacting with anything
+
+# group huddle sesh
+- sal points out that gunnery guy didn't make codenames with anyone else
+	- did catch on that others had codephrases
+	- and was pacing around the bottom deck
+- we're onto the gunnery dude.
+	- annith puts up an alarm around is door
+	- crelypsis is going to watch the door while everyone else goes up to get spark to summon jakobs up to the top floor
+
+# the jig is up
+- spark decides to send kip to get jakobs upstairs
+	- jakobs instead convinces kip to bring kip downstairs
+	- sal follows them while invisible
+- crel and annith sneak into jakob's room to figure out what hte source of illusion is
+	- it's a magical pipe that blows smoke creatures
+- jakobs takes kip into a different room, then suddenly attacks him
+- sal magically messages kay that something's going on
+- everyone picks up and gets into the fight, stopping jakobs (or whatever doppelgamger replaced him)
+	- but at the cost of kip being shot
+- 
