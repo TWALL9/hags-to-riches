@@ -30,7 +30,7 @@
 	* literally called "Team Dragons"
 	* Hahzo the kobold and Morgan the dragonborn
 * and a one-person team called "team Umm...."
-	* led by a stuttering person named by agnol
+	* led by a stuttering hobgoblin named by agnol
 	* not even really led, it's literally one person
 * transmuter henry is also MC'ing
 	* he's annoying, and overblown, sound effects and visuals 
