@@ -19,5 +19,6 @@
 	- Audre is also calishite
 	- she's here on "family business"
 - audre misses home, she's talking to antala a lot
+- there is also another lizardfolk named Coz
 - over the course of several weeks, we've arrived off the coast of Neverwinter
 	- the water gets brighter, and it's full of giant firefly squid
