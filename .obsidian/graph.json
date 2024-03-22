@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"people/hostower of the arcane\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,17 +15,38 @@
       }
     },
     {
-      "query": "path:people",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "path:episodes",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"people/hostower of the arcane/east wing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10367412
+      }
+    },
+    {
+      "query": "path:\"people/hostower of the arcane/west wing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15796570
+      }
+    },
+    {
+      "query": "path:\"people/hostower of the arcane/north wing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 113641
+      }
+    },
+    {
+      "query": "path:\"people/hostower of the arcane/south wing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16475908
       }
     }
   ],
@@ -35,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.8630896578585998,
-  "close": true
+  "centerStrength": 0.299479166666667,
+  "repelStrength": 6.30208333333333,
+  "linkStrength": 0.322916666666667,
+  "linkDistance": 130,
+  "scale": 1.4018754798098083,
+  "close": false
 }

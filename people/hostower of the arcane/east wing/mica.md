@@ -1,0 +1,9 @@
+- has a frog familiar named herbert
+- apprentice in the botany faculty
+- she's super friendly with crelypsis
+	- big into tea, frogs, very extremely "wholesome pinterest witch"
+- thinks [[herb]] is the coolest west winger
+	- outfit with the peppers is good
+	- hasn't heard anything weird about him
+- she has a crush on [[patches the awakened scarecrow]] (who is tearing up the dancefloor)
+- says [[velvet]] or [[twilight]] may be best to take on an apprentice as they're phd students

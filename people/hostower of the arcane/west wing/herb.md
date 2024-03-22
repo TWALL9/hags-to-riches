@@ -1,0 +1,7 @@
+- in a pickle
+- someone's got blackmail material on him, but he's not telling us
+- [[minerva]] knows that an apprentice has blackmail material and she wants to know what it is
+- [[ep44 - eternal sunshine of the spotless blood drive]]
+- sometimes consults with the [[east wing]] about botany
+	- namely with [[patches the awakened scarecrow]]
+	- and the [[unnamed professor of botany]]

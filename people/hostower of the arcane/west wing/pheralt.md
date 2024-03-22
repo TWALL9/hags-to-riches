@@ -1,0 +1,4 @@
+- [[walter]]'s apprentice
+- smelly
+- also skelly
+- still kind of rotting

@@ -1,0 +1,8 @@
+- 7ft goliath
+- downs the entire punchbowl
+- northbrancher
+	- outdoorsman, not a diviner
+	- kinda lived up there, tribe was murdered
+	- urthgart barbarian
+- party animal
+- 

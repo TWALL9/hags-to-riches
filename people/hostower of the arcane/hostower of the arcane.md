@@ -1,0 +1,5 @@
+- [[north wing]]
+- [[east wing]]
+- [[south wing]]
+- [[west wing]]
+- 

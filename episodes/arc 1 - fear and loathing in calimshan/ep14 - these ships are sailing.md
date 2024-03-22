@@ -6,7 +6,7 @@
 - still have a couple days in calimport
 
 # [[salphonse]] finally gets his sister out of slavery
-- at the tavern, two elite guardbros (amlukar) show up with [[salphonse's sister]]
+- at the tavern, two elite guardbros (amlukar) show up with [[bulakvyre]]
 	- bulakvyre?  what a name
 - She decides to come along with sal to icewind dale
 - they are adoptive siblings through a shared adoptive father that neither of them knew for long and at completely different times

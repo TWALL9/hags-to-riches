@@ -8,31 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1da15538d60b1ee2",
+            "id": "f2b14036d248c37a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
+                "file": "people/hostower of the arcane/east wing/east wing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6af0cc0791e087f1",
+            "id": "7cfc886e1ed939e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
+                "file": "people/hostower of the arcane/east wing/unnamed professor of botany.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e633ef2ad8be27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/east wing/minerva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3891ba7a4aaf075d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "436abbb27e6610ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ep45 - eternal sunshine of the spotless blood drive part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0847e2fbc82f71b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/west wing/herb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "221014dfd94e0b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db7a087869c5655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/west wing/octavius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da8638769b59fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep43 - family feud.md"
+                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md"
               }
             }
           }
@@ -144,35 +228,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6af0cc0791e087f1",
+  "active": "3891ba7a4aaf075d",
   "lastOpenFiles": [
+    "ep45 - eternal sunshine of the spotless blood drive part 2.md",
+    "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+    "people/party/ib.md",
     "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
-    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
-    "episodes/arc 3 - prestige worldwide/ep39 -.md",
-    "episodes/arc 3 - prestige worldwide/ep38 -.md",
-    "episodes/arc 3 - prestige worldwide/ep36 - john carpenter would be proud.md",
-    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
-    "episodes/arc 2 - unreal estate/ep32 - robot rap battle aka will the real swim shady please stand up.md",
-    "episodes/arc 3 -/ep37 - ibling rivalry.md",
-    "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
-    "episodes/arc 2 - unreal estate/ep33 - more like sham flam.md",
-    "people/toy soldiers/timonthy fuckin wall.md",
-    "episodes/arc 3 -/ep36 - john carpenter would be proud.md",
-    "people/boat/boat crew.md",
-    "episodes/arc 3 -/ep34 - big k's big day.md",
-    "lootz/teleportation scroll.md",
-    "people/kreshenn.md",
-    "episodes/arc 2 - unreal estate/ep31 - the wicker man.md",
+    "people/hostower of the arcane/east wing/lib.md",
+    "people/hostower of the arcane/west wing/octavius.md",
+    "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
+    "people/hostower of the arcane/west wing/herb.md",
+    "people/hostower of the arcane/west wing/monica.md",
+    "people/hostower of the arcane/hostower of the arcane.md",
+    "people/hostower of the arcane/east wing/east wing.md",
+    "people/hostower of the arcane/east wing/minerva.md",
+    "people/hostower of the arcane/east wing/unnamed professor of botany.md",
+    "people/hostower of the arcane/west wing/leonard.md",
+    "people/hostower of the arcane/east wing/mica.md",
+    "people/hostower of the arcane/east wing/velvet.md",
+    "people/hostower of the arcane/east wing/twilight.md",
+    "people/hostower of the arcane/north wing/kirath.md",
+    "people/hostower of the arcane/west wing/pheralt.md",
+    "people/hostower of the arcane/west wing/west wing.md",
+    "people/hostower of the arcane/west wing/walter.md",
+    "people/hostower of the arcane/south wing/south wing.md",
+    "people/hostower of the arcane/west wing/tim.md",
+    "people/hostower of the arcane/south wing",
+    "east wing.md",
+    "people/hostower of the arcane/north wing/north wing.md",
+    "people/bulakvyre.md",
+    "people/hostower of the arcane/north wing",
+    "people/hostower of the arcane/east wing",
+    "people/hostower of the arcane/west wing",
+    "people/hostower of the arcane",
     "people/boat",
     "episodes/arc 3 -",
-    "maps/sword coast.jpg",
-    "anniths stuff/ideas for new battlebot.md",
-    "episodes/arc 2 - unreal estate/ep17 - do medusas multitask with snakes.md",
-    "episodes/arc 2 - unreal estate/ep19 - lumberjack fantasies.md",
-    "episodes/arc 2 - unreal estate/ep20 - murder mystery.md",
-    "episodes/arc 1 - fear and loathing in calimshan/ep10 - all in all it's another hole in the wall.md",
-    "episodes/arc 1 - fear and loathing in calimshan/ep11 - you seem like the experimental type.md",
-    "anniths stuff/questz-n-shit.md",
-    "episodes/arc 2 - unreal estate/ep23 - skrappy doo artificing.md"
+    "maps/sword coast.jpg"
   ]
 }
