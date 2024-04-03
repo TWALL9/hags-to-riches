@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f93c8a97a3fd0a35",
+        "id": "9484bfbb7350ed90",
         "type": "tabs",
         "children": [
           {
-            "id": "1da15538d60b1ee2",
+            "id": "e98084146596e418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 3 -/ep37 - ibling rivalry.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca1e73fad08626d4",
+            "id": "f9456e8b1fb5f657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 2 - unreal estate/ep32 - robot rap battle aka will the real swim shady please stand up.md",
+                "file": "anniths stuff/current infused items.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6af0cc0791e087f1",
+            "id": "7738a1558d21ff28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 3 -/ep37 - ibling rivalry.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 3 -/ep37 - ibling rivalry.md"
+                "file": "episodes/arc 3 - prestige worldwide/ep42 - there There is.md"
               }
             }
           }
@@ -155,8 +156,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1da15538d60b1ee2",
+  "active": "7738a1558d21ff28",
   "lastOpenFiles": [
+    "lootz/misplacer cloak.md",
+    "anniths stuff/Untitled.md",
+    "anniths stuff/current infused items.md",
+    "anniths stuff/ideas for new battlebot.md",
+    "anniths stuff/questz-n-shit.md",
+    "anniths stuff/wagon.md",
+    "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
+    "episodes/arc 3 - prestige worldwide/ep39 -.md",
+    "episodes/arc 3 - prestige worldwide/ep38 -.md",
+    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
     "episodes/arc 2 - unreal estate/ep32 - robot rap battle aka will the real swim shady please stand up.md",
     "episodes/arc 3 -/ep37 - ibling rivalry.md",
     "episodes/arc 3 -/ep35 - for all inquiries please see the lizard.md",
@@ -171,13 +182,10 @@
     "people/boat",
     "episodes/arc 3 -",
     "maps/sword coast.jpg",
-    "anniths stuff/ideas for new battlebot.md",
     "episodes/arc 2 - unreal estate/ep17 - do medusas multitask with snakes.md",
     "episodes/arc 2 - unreal estate/ep19 - lumberjack fantasies.md",
     "episodes/arc 2 - unreal estate/ep20 - murder mystery.md",
     "episodes/arc 1 - fear and loathing in calimshan/ep10 - all in all it's another hole in the wall.md",
-    "episodes/arc 1 - fear and loathing in calimshan/ep11 - you seem like the experimental type.md",
-    "anniths stuff/questz-n-shit.md",
-    "episodes/arc 2 - unreal estate/ep23 - skrappy doo artificing.md"
+    "episodes/arc 1 - fear and loathing in calimshan/ep11 - you seem like the experimental type.md"
   ]
 }
