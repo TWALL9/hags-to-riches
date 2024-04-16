@@ -1,4 +1,8 @@
 - runs the blood drive
 - has some kind of science with a vampire and an incubus
 - the witch mommy from [[ep43 - family feud]] and [[ep44 - eternal sunshine of the spotless blood drive]]
+- thinks that west wing traditionalism gets in the way of progress
+- thinks that [[herb]] is "too good for the west wing"
+- "[[monica]] is a bit of a tragedy"
+- feels responsible for [[tazhrys]] and [[maeven]]
 - 

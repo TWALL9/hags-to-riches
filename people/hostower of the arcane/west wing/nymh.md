@@ -1,0 +1,5 @@
+- ponce in a purple cloak
+- "you move on fast" to [[justira]], def an ex
+	- nope, an apprentice apparently
+	- oooo this is academic dishonesty
+- 

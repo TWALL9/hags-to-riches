@@ -1,0 +1,6 @@
+- new to the west wing
+- META: not in [[ep44 - eternal sunshine of the spotless blood drive]]
+- works with [[herb]] from time to time
+- studies transmutation
+- implies that she's much older than most students. she's an elf
+- 

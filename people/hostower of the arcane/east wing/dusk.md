@@ -1,0 +1,8 @@
+- phd in power patrons
+	- minors in devil contracts
+	- notable avatars working on behalf of patrons
+- this one guy who's really into secrets
+	- alias of adil
+- adil is this guy's favourite
+- I HAVE TO TELL SAL ABOUT THIS
+- this guy knows something about the [[west wing]]

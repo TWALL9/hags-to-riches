@@ -8,115 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2b14036d248c37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/hostower of the arcane/east wing/east wing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cfc886e1ed939e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/hostower of the arcane/east wing/unnamed professor of botany.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e633ef2ad8be27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/hostower of the arcane/east wing/minerva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3891ba7a4aaf075d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "436abbb27e6610ad",
+            "id": "4352db66d32e37bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ep45 - eternal sunshine of the spotless blood drive part 2.md",
+                "file": "people/hostower of the arcane/west wing/nymh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0847e2fbc82f71b4",
+            "id": "d8ad1aab3a81a259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/west wing/herb.md",
+                "file": "people/hostower of the arcane/south wing/south wing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "221014dfd94e0b58",
+            "id": "4a457e95e503fd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
+                "file": "people/hostower of the arcane/east wing/tazhrys.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7db7a087869c5655",
+            "id": "afba8dabd1cf2dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/west wing/octavius.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8638769b59fa6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
+                "file": "maeven.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md"
+                "file": "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2.md"
               }
             }
           }
@@ -230,33 +181,33 @@
   },
   "active": "3891ba7a4aaf075d",
   "lastOpenFiles": [
-    "ep45 - eternal sunshine of the spotless blood drive part 2.md",
-    "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
-    "people/party/ib.md",
-    "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
-    "people/hostower of the arcane/east wing/lib.md",
-    "people/hostower of the arcane/west wing/octavius.md",
-    "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
-    "people/hostower of the arcane/west wing/herb.md",
-    "people/hostower of the arcane/west wing/monica.md",
-    "people/hostower of the arcane/hostower of the arcane.md",
-    "people/hostower of the arcane/east wing/east wing.md",
-    "people/hostower of the arcane/east wing/minerva.md",
-    "people/hostower of the arcane/east wing/unnamed professor of botany.md",
-    "people/hostower of the arcane/west wing/leonard.md",
-    "people/hostower of the arcane/east wing/mica.md",
-    "people/hostower of the arcane/east wing/velvet.md",
-    "people/hostower of the arcane/east wing/twilight.md",
-    "people/hostower of the arcane/north wing/kirath.md",
-    "people/hostower of the arcane/west wing/pheralt.md",
-    "people/hostower of the arcane/west wing/west wing.md",
-    "people/hostower of the arcane/west wing/walter.md",
     "people/hostower of the arcane/south wing/south wing.md",
-    "people/hostower of the arcane/west wing/tim.md",
+    "people/hostower of the arcane/east wing/minerva.md",
+    "people/hostower of the arcane/west wing/justira.md",
+    "people/hostower of the arcane/west wing/nymh.md",
+    "people/hostower of the arcane/east wing/tazhrys.md",
+    "maeven.md",
+    "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2.md",
+    "people/hostower of the arcane/west wing/west wing.md",
+    "people/hostower of the arcane/east wing/east wing.md",
+    "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
+    "people/hostower of the arcane/east wing/dusk.md",
+    "people/hostower of the arcane/east wing/beth.md",
+    "people/hostower of the arcane/west wing/hera.md",
+    "Untitled.md",
+    "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+    "people/hostower of the arcane/east wing/twilight.md",
+    "people/hostower of the arcane/east wing/velvet.md",
+    "people/hostower of the arcane/west wing/pheralt.md",
+    "people/hostower of the arcane/west wing/walter.md",
+    "people/hostower of the arcane/west wing/octavius.md",
+    "people/hostower of the arcane/west wing/leonard.md",
+    "ep43 - eternal sunshine of the spotless blood drive pt 2.md",
+    "episodes/arc 3 - prestige worldwide/ep41 -.md",
+    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
+    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
+    "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
     "people/hostower of the arcane/south wing",
-    "east wing.md",
-    "people/hostower of the arcane/north wing/north wing.md",
-    "people/bulakvyre.md",
     "people/hostower of the arcane/north wing",
     "people/hostower of the arcane/east wing",
     "people/hostower of the arcane/west wing",

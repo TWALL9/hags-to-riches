@@ -1,0 +1,8 @@
+- [[crelypsis]] does not like her
+	- intimidation tactics
+- clearly inebriated
+	- also wants to know what happened to his missing arm
+- she has a pet chameleon named lizzie
+	- crelypsis immediately melts when she sees the chameleon
+- studying in potions
+	- 
