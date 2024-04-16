@@ -1,0 +1,8 @@
+- resident goblin cook
+- needs **THE S P O O N**
+- known iblings
+	- [[lib]] - [[ep44 - eternal sunshine of the spotless blood drive]]
+	- glib - [[ep37 - ibling rivalry#"i'm somewhat of an investigator myself"]]
+	- fib - [[ep37 - ibling rivalry#"i'm somewhat of an investigator myself"]]
+	- squib - [[ep32 - robot rap battle aka will the real swim shady please stand up]]
+	- 

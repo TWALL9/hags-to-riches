@@ -1,0 +1,9 @@
+- purple clothes
+- bit of a weird pause after learning [[kay lieri]] is an apprentice of herb
+- graduate doing research
+	- on what? who knows
+- apprentice of [[tim]]
+- hand-picked by [[octavius]] for this wing
+- easily confused, doesn't appear to know much about magic, appears incompetent
+- local to [[luskan]]
+- 

@@ -1,0 +1,7 @@
+- while everyone is partying, she is working away
+- phd student
+	- paper about the geopolitics of calimshan
+	- takes notes on whatever salphonse says about rex tyrannos and deals we made with a dragon in the desert somewhere (what session is this????)
+- besties with [[hera]]?
+- sal hears her muttering something about "trouble"
+	- that trouble is actually [[nymh]]

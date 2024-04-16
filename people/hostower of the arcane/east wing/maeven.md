@@ -1,0 +1,4 @@
+- naked
+- drinking random bodily fluids
+- mute?
+- couple with [[tazhrys]]

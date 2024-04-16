@@ -37,7 +37,7 @@
 - after all this nonsense, Annith finds audre is returned to normal, and tinker is reduced to a pile of broken parts on the ground ^195679
 - apparently his powers are fueled by heroic emotions?
 - the silpasha is granting us a *thing*, basically a wish within his power
-	- we're using it to get [[salphonse's sister]]
+	- we're using it to get [[bulakvyre]]
 
 # we all need a beer
 - find out that there's another sentient gelatinous geometric shape out there somewhere

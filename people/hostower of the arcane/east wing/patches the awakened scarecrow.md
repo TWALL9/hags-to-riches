@@ -1,0 +1,7 @@
+- is noticeably tearing up the dance floor
+- literally an expert on gardens
+- grad student of botany
+	- under the [[unnamed professor of botany]]
+- has like a single braincell
+	- doesn't like the idea of [[annith]] growing metal
+	- 

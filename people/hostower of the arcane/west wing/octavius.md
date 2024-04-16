@@ -1,0 +1,7 @@
+- overwizard of the west wing
+- thinks that the elves had it right way back when
+	- namely with their arcane skills
+	- "not sure about these 'new elves'"
+- because sal does illusion and conjuration, also thinks that sal would belong in the east wing with herb
+	- mentioned that herb works with [[patches the awakened scarecrow]]
+- also mentions that herb has talked to him about [[minerva]]

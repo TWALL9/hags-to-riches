@@ -1,0 +1,6 @@
+- classic red wizard gear
+- blows [[salphonse]] off completely
+- thinks [[herb]] isn't that great because he associates with the east wing
+- studies primordials
+- 
+- 
