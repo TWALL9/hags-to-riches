@@ -9,7 +9,7 @@
 	- in order for it to be used again, it must be purified
 	- dunno how, but probably involves entering the extra-dimensional space
 
-# the halfling
+# the halfling (callie)
 * "bon bon did it"
 	* eyes narrow
 	* there's half a medallion on the hilt of the sword, she takes it and we keep the sword

@@ -1,0 +1,10 @@
+- blue tiefling
+- studies the northlands
+- specifically ruins in the spine of the world
+	- like [[ep28 - ancient tomb of ambiguous purpose]]
+	- she's actually been there! they did not go further than the "sacrifice your arm" room
+	- she went with [[kirath]]
+		- "you'd be a fool to use that thing"
+	- and sal tells her about it lol
+- sal's going to hook her up because we know speaker shayne and duvessa from tentowns and kay is with us and she's speaker for caer koenig
+- 

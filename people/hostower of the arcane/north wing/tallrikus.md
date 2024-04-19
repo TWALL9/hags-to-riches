@@ -1,0 +1,3 @@
+- dragonborn 
+- head of the north branch
+- big on egoism, but deconstructing it

@@ -1,0 +1,4 @@
+- angel bro
+- not sure if he wants to stay in the north wing
+- new here, like [[salphonse]]
+- 

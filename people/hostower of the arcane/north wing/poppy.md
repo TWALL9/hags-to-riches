@@ -1,0 +1,7 @@
+- [[celeste]]'s apprentice
+- very bashful
+- she's very new
+- "from one of the forests to the east"
+	- but she looks more human than elf
+	- child prodigy, 10 years old looking
+- lived there with her mother [[faylen]]

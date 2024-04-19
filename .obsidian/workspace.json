@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3891ba7a4aaf075d",
+            "id": "718a2a9bac86289c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,54 +20,79 @@
             }
           },
           {
-            "id": "4352db66d32e37bd",
+            "id": "eb2fd1ca107b5d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/west wing/nymh.md",
+                "file": "people/hostower of the arcane/south wing/trouble.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8ad1aab3a81a259",
+            "id": "bd9daa338d8f30a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/south wing/south wing.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a457e95e503fd50",
+            "id": "9bb57965ce29920e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/east wing/tazhrys.md",
+                "file": "people/hostower of the arcane/north wing/nero.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afba8dabd1cf2dc4",
+            "id": "373a6e2e6fd62fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/east wing/maeven.md",
+                "file": "people/hostower of the arcane/north wing/north wing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271787da6050572d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/north wing/amina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f22294328f4ba779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/hostower of the arcane/west wing/leonard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/hostower of the arcane/east wing/east wing.md",
+                "file": "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/hostower of the arcane/east wing/east wing.md"
+                "file": "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md"
               }
             }
           }
@@ -179,34 +204,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b39bd4445af2b08",
+  "active": "bd9daa338d8f30a6",
   "lastOpenFiles": [
-    "people/hostower of the arcane/east wing/maeven.md",
-    "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2.md",
-    "people/hostower of the arcane/south wing/south wing.md",
-    "people/hostower of the arcane/east wing/minerva.md",
-    "people/hostower of the arcane/west wing/justira.md",
-    "people/hostower of the arcane/west wing/nymh.md",
-    "people/hostower of the arcane/east wing/tazhrys.md",
-    "people/hostower of the arcane/west wing/west wing.md",
-    "people/hostower of the arcane/east wing/east wing.md",
-    "people/hostower of the arcane/east wing/patches the awakened scarecrow.md",
-    "people/hostower of the arcane/east wing/dusk.md",
-    "people/hostower of the arcane/east wing/beth.md",
-    "people/hostower of the arcane/west wing/hera.md",
-    "Untitled.md",
     "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
-    "people/hostower of the arcane/east wing/twilight.md",
-    "people/hostower of the arcane/east wing/velvet.md",
-    "people/hostower of the arcane/west wing/pheralt.md",
-    "people/hostower of the arcane/west wing/walter.md",
-    "people/hostower of the arcane/west wing/octavius.md",
+    "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
+    "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
+    "people/hostower of the arcane/east wing/minerva.md",
+    "people/hostower of the arcane/south wing/barrakir.md",
+    "people/hostower of the arcane/north wing/poppy.md",
     "people/hostower of the arcane/west wing/leonard.md",
-    "ep43 - eternal sunshine of the spotless blood drive pt 2.md",
+    "people/hostower of the arcane/south wing/trouble.md",
+    "people/hostower of the arcane/south wing/south wing.md",
+    "people/hostower of the arcane/north wing/celeste.md",
+    "people/hostower of the arcane/north wing/north wing.md",
+    "people/hostower of the arcane/north wing/faylen.md",
+    "people/hostower of the arcane/north wing/zahra.md",
+    "people/hostower of the arcane/north wing/nero.md",
+    "people/hostower of the arcane/north wing/tallrikus.md",
+    "people/hostower of the arcane/east wing/east wing.md",
+    "people/hostower of the arcane/east wing/luna.md",
+    "people/hostower of the arcane/north wing/amina.md",
+    "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
+    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
     "episodes/arc 3 - prestige worldwide/ep41 -.md",
     "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
-    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
-    "episodes/arc 3 - prestige worldwide/ep37 - ibling rivalry.md",
+    "episodes/arc 3 - prestige worldwide/ep39 -.md",
+    "episodes/arc 3 - prestige worldwide/ep38 -.md",
+    "episodes/arc 2 - unreal estate/ep26 - it's a magical sibling map.md",
+    "people/hostower of the arcane/north wing/eltair.md",
     "people/hostower of the arcane/south wing",
     "people/hostower of the arcane/north wing",
     "people/hostower of the arcane/east wing",

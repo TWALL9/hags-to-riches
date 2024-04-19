@@ -5,4 +5,7 @@
 - thinks that [[herb]] is "too good for the west wing"
 - "[[monica]] is a bit of a tragedy"
 - feels responsible for [[tazhrys]] and [[maeven]]
-- 
+- grilled annith and audre for details about [[herb]] and she knows that the two of them are up to something
+	- asked if herb gave them anything
+	- also aksed if herb asked them to do anything
+	- 

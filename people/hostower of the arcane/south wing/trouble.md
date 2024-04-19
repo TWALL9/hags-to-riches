@@ -1,0 +1,9 @@
+- actually named pesmeia
+- fiendish appearance
+- "i'm trouble, and i'd like to get you into some" to mahir
+	- he's def not into it
+	- crelypsis is super not into it
+- dancing with [[barrakir]]
+- wants to go to hell to study it
+- banned from the [[west wing]]
+- 

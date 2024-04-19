@@ -1,1 +1,10 @@
 [[kirath]]
+[[eltair]]
+[[amina]]
+[[tallrikus]]
+[[zahra]]
+[[nero]]
+[[celeste]]
+[[poppy]]
+[[faylen]]
+

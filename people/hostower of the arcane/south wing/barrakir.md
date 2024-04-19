@@ -1,0 +1,5 @@
+- [[trouble]]'s sibling
+- studies the nine hells
+- wants to do a phd
+- has sampled some of [[herb]]'s spices
+- 
