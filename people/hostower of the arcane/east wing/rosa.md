@@ -1,0 +1,1 @@
+- works with [[patches the awakened scarecrow]] and [[mica]] in the garden

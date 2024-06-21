@@ -1,5 +1,6 @@
 - blue tiefling
 - studies the northlands
+	- particular interest in the soupening
 - specifically ruins in the spine of the world
 	- like [[ep28 - ancient tomb of ambiguous purpose]]
 	- she's actually been there! they did not go further than the "sacrifice your arm" room

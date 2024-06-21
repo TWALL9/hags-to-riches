@@ -30,7 +30,7 @@
 	- this is a bad development
 	- he regards annith as a "wrench"
 	- he also asked for two proposals based on what the dwarves are surveying
-- apparently ib paid in full before the dwarves arrived
+- apparently ib paid in full **for the assessment** before the dwarves arrived
 	- in gold.
 	- where did the money come from???
 	- we don't even pay him!
@@ -40,4 +40,4 @@
 - the dwarves met azaelia
 	- we made the executive decision to help her meet people, but not without warning them first
 - the dwarves also agree to fix annith's anvil, for a small fee
-- 
+- the caer will cost 25k gold to fix

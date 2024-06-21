@@ -13,4 +13,21 @@
 # the black cat infirmary
 - we're in some kind of inky blackness room thing
 - [[minerva]]'s cat familiar is here
-- 
+
+# reassembling herb's ramen block
+- we are each given a different noodle of memory, and told to reassemble it to recreate what Herb is
+- learned a few things
+	- herb had a wife who died early
+	- his best man became a revenant 
+	- he boned an older version of his dead wife in the fluid donation closet
+- the elder version of his wife is a shapeshifter, [[maeven]] is an incubus therefore a shapeshifter
+
+# sherlock holmes of academic dishonesty
+- So herb's not the bad guy
+	- honestly a win-win with [[maeven]]. herb gets to bone down with his old wife and maeven gets some soul energy to eat
+- if anything, [[minerva]] is the bad guy for figuring it out and blackmailing herb.
+
+# this cannot go badly
+- while this is going on, [[leonard]] is in another room in the infirmary stoned out of his gourd
+- annith is telling him that there is a secret cabal of invisible people in the east wing that steal bangles
+- also that her name is [[adil]] and that she's a powerful otherwordly entity
