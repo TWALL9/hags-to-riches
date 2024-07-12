@@ -1,0 +1,45 @@
+# once again we find ourselves in the presence of dougan's hole
+- maitre de bordes teleports us back to the material plane. and we decide t od osomething about those strange flesh golem creatures we've been seeing in town, standing there, menacingly
+- we look at one in a house, it's just staring into the corner, meanacingly
+	- we chicken out and go to check out the speaker since it's becoming night time
+- as it's getting darker out, these creatures become more and more active
+
+# high fascion
+- at the speaker's house, we are once again greeted by skins, the house bodyguard and muscle
+- he lets us through to meet Sinphony again. he offers us some wine
+	- only annith takes him up on it
+	- it's red dragon crush from the wizard of wines in barovia
+	- this is an incredibly rare wine, since the wizard of wines is now "in a bit of a power vacuum at the moment"
+- eventually we hear a voice come from upstairs.
+	- snivelly, and wining
+	- ordering sinphony around like the help (well he kind of is the help)
+	- the voice demands breakfast, and to make sure that skins is out of the house since he disgusts the owner of the voice
+		- sinphony simply has to say a word to skins and he marches right out of the house and keeps on going
+- the voice descends the tairs, and it's a teenage or young woman in decidedly fascist clothing.
+	- she really wants her midnight breakfast
+	- only eats the sugary stuff
+	- still ordering sinphony around, despite him being more powerful than anyone here, he's cleaning up after all the dishses
+- this girl is Hemmend, the self-declared mayor of the town
+	- she wants to be speaker because "it seemed like a good idea at the time"
+		- with kay as the speaker for caer koenig, she can start hemmend on the path to becoming the speaker. this sounds like an awful idea though she's a spoiled brat in fascist cosplay
+	- she's also from "luskan" as sinphony puts it
+	- (he also doesn't smell annith this time)
+	- we learn that hemmend and sinphony are the ones twho made the flesh golem inhabitants.
+- and we learn that there's a cult down the road, maybe that's where all the original people of dougan's hole have gone
+	- you need corpses to create flesh golems, so it's also still completely reasonable that these two (probably just sinphony) are murdering people
+- either way, we are assured that these flesh golems are harmless so long as sinphony is alright with us, and hwe decide to stay in one of the houses offered by the two for the night instead of camping in the cold
+- it's pretty clear that hemmend is really not doing anything on her own, she needs sinphony to do it all for her. he's some kind of powerful shadowfell being, and hemmend is just a human girl. what gives?
+# transmutation and contract law
+- the ouse we're in is the same one from earlier which only had one golem facing the corner of a wall and not responding to anything. so i guess it's safe.
+- as we get set up, skins arrives with a big sled of stuff to make the night easier. tinder, wood, etc
+- he is actually capable of full speech! he's not a flesh golem! he's a wizard named jim!
+- jim is a transmuter wizard who transmuted THESE GAINZ to make himself this muscular
+- but he's also an accredited lawyer
+- he made a bargain with sinphony to be his patron
+	- jim sold his sould to sinphony to have sinphony provide his powerful magical services to his daughter...hemmend
+	- sinphony's contract extends for hemmend's life, and up to the point where he would have to sacrifice his own life in service for her. basically he doesn't have to take a bullet for her, but everything up to that point is his job.
+- we have no idea what he's planning, but he's very much in chare of the situation he's in with hemmend
+	- because he spends so much time with hemmend, and can remote control jim, she hardly sees jim as a human creature, let alone her father.
+	- they also have some beef with th ecult down the street, who are open followers of the raven queen. the patron goddess of teh shadowfell
+	- which is intersting because sinphony is a shadowfell being himself. why would he be beefing with fellow raven queen practitioners?
+	- we aim to answer those questions next time

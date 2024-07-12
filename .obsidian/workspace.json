@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdf10dfcc4e20395",
+            "id": "41c608fbae485368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/hostower of the arcane/north wing/north wing.md",
+                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/hostower of the arcane/north wing/north wing.md",
+                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/hostower of the arcane/north wing/north wing.md"
+                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md"
               }
             }
           }
@@ -131,34 +131,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdf10dfcc4e20395",
+  "active": "41c608fbae485368",
   "lastOpenFiles": [
-    "people/hostower of the arcane/north wing/poppy.md",
-    "people/hostower of the arcane/north wing/tallrikus.md",
-    "people/hostower of the arcane/south wing/zegug.md",
-    "people/hostower of the arcane/south wing/trouble.md",
-    "people/hostower of the arcane/south wing/south wing.md",
-    "people/hostower of the arcane/south wing/barrakir.md",
-    "episodes/arc 3 - prestige worldwide/ep48 - eternal sunshine of the spotless blood drive part 5 -.md",
-    "episodes/arc 2 - unreal estate/ep25 - stardew dwarvalley.md",
-    "episodes/arc 2 - unreal estate/ep15 - I'm the faceless mask of life and death.md",
-    "episodes/arc 2 - unreal estate/ep18 - babarans.md",
-    "people/hostower of the arcane/north wing/amina.md",
-    "episodes/arc 3 - prestige worldwide/ep34 - big k's big day.md",
-    "people/hostower of the arcane/east wing/rosa.md",
-    "anniths stuff/Untitled.md",
-    "episodes/arc 3 - prestige worldwide/ep47 - eternal sunshine of the spotless blood drive part 4 -.md",
+    "episodes/arc 4 -/ep50 - de borde's been set.md",
+    "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
+    "lootz/anti-magic choker.md",
+    "episodes/arc 4 -/ep49 - woerm sin, part 2.md",
+    "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
+    "episodes/arc 3 - prestige worldwide/ep48 - eternal sunshine of the spotless blood drive part 5 - the boys are back in town.md",
+    "episodes/arc 3 - prestige worldwide/ep47 - eternal sunshine of the spotless blood drive part 4 - ramen brain.md",
     "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
     "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
+    "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
+    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
+    "episodes/arc 3 - prestige worldwide/ep41 -.md",
+    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
+    "episodes/arc 3 - prestige worldwide/ep39 -.md",
+    "episodes/arc 3 - prestige worldwide/ep38 -.md",
+    "anniths stuff/current infused items.md",
+    "episodes/arc 4 -",
+    "Untitled",
+    "people/hostower of the arcane/east wing/rosa.md",
+    "people/party/annith.md",
     "people/hostower of the arcane/east wing/maeven.md",
     "people/hostower of the arcane/west wing/nymh.md",
+    "episodes/arc 3 - prestige worldwide/ep34 - big k's big day.md",
     "people/hostower of the arcane/east wing/minerva.md",
     "people/hostower of the arcane/east wing/isobel.md",
+    "people/hostower of the arcane/south wing/zegug.md",
     "people/hostower of the arcane/hostower of the arcane.md",
-    "people/hostower of the arcane/hostower.md",
-    "people/hostower of the arcane/east wing/luna.md",
-    "people/hostower of the arcane/north wing/zahra.md",
-    "people/hostower of the arcane/north wing/faylen.md",
+    "people/hostower of the arcane/south wing/trouble.md",
     "people/hostower of the arcane/south wing",
     "people/hostower of the arcane/north wing",
     "people/hostower of the arcane/east wing",
