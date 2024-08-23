@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
+                "file": "episodes/arc 5 - the hole/ep52 - drink the raven-aide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maeven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
+                "file": "episodes/arc 5 - the hole/ep52 - drink the raven-aide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md"
+                "file": "episodes/arc 5 - the hole/ep52 - drink the raven-aide.md"
               }
             }
           }
@@ -131,25 +131,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41c608fbae485368",
+  "active": "9b39bd4445af2b08",
   "lastOpenFiles": [
-    "episodes/arc 4 -/ep50 - de borde's been set.md",
-    "episodes/arc 4 -/ep51 - at least 8 strudels for breakfast.md",
-    "lootz/anti-magic choker.md",
-    "episodes/arc 4 -/ep49 - woerm sin, part 2.md",
+    "episodes/arc 5 - the hole/ep51 - at least 8 strudels for breakfast.md",
+    "episodes/arc 5 - the hole/ep50 - de borde's been set.md",
+    "episodes/arc 5 - the hole/ep49 - woerm sin, part 2.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep43 - family feud.md",
     "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
-    "episodes/arc 3 - prestige worldwide/ep48 - eternal sunshine of the spotless blood drive part 5 - the boys are back in town.md",
-    "episodes/arc 3 - prestige worldwide/ep47 - eternal sunshine of the spotless blood drive part 4 - ramen brain.md",
-    "episodes/arc 3 - prestige worldwide/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
-    "episodes/arc 3 - prestige worldwide/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
-    "episodes/arc 3 - prestige worldwide/ep44 - eternal sunshine of the spotless blood drive.md",
-    "episodes/arc 3 - prestige worldwide/ep43 - family feud.md",
+    "episodes/arc 5 - the hole/ep52 - drink the raven-aide.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive",
+    "lootz/anti-magic choker.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep48 - eternal sunshine of the spotless blood drive part 5 - the boys are back in town.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep47 - eternal sunshine of the spotless blood drive part 4 - ramen brain.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep44 - eternal sunshine of the spotless blood drive.md",
     "episodes/arc 3 - prestige worldwide/ep41 -.md",
     "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
     "episodes/arc 3 - prestige worldwide/ep39 -.md",
     "episodes/arc 3 - prestige worldwide/ep38 -.md",
     "anniths stuff/current infused items.md",
-    "episodes/arc 4 -",
+    "episodes/arc 5 - the hole",
     "Untitled",
     "people/hostower of the arcane/east wing/rosa.md",
     "people/party/annith.md",
@@ -159,8 +161,6 @@
     "people/hostower of the arcane/east wing/minerva.md",
     "people/hostower of the arcane/east wing/isobel.md",
     "people/hostower of the arcane/south wing/zegug.md",
-    "people/hostower of the arcane/hostower of the arcane.md",
-    "people/hostower of the arcane/south wing/trouble.md",
     "people/hostower of the arcane/south wing",
     "people/hostower of the arcane/north wing",
     "people/hostower of the arcane/east wing",
