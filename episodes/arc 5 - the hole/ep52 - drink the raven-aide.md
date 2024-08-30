@@ -11,7 +11,7 @@
 - three acolytes in dark cloaks that obscure faces
 	- sister allure: turns out she's actually a hottie redhead half elf
 	- brother blind: only speaks in grumbles
-	- sister somethingorother: very slight build, very small
+	- sister sense: very slight build, very small
 		- could be a child?
 - one other acolyte that is very silent in the corner of the temple
 - learned that:
@@ -34,6 +34,8 @@
 - decide that it's a good idea to see Maitre De'Borde about this, he does Raven Queen stuff
 	- he says that he's aware of her rituals, but has no idea which of many horrible things are stuck in this man
 	- says that most of the time these rituals are done in the shadowfell, with the fact that the ritual victim has better conduit to the entities being summoned.
+- de'borde also says that one of the cultists is more than they appear to be
+	- probably the leader?
 
 # Fascionistas
 - Once we leave the shadowfell, annith goes off to scrounge some materials for her New Brew
