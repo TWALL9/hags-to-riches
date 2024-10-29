@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "episodes/arc 5 - the hole/ep53 - FF0000 000000 FFFFFF.md",
+                "file": "episodes/arc 5 - the hole/ep55 - spookysesh MMXXIV.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ep55 - spookysesh MMXXIV"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 387.5
   },
   "right": {
     "id": "0b7d3397b7370df2",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "episodes/arc 5 - the hole/ep53 - FF0000 000000 FFFFFF.md",
+                "file": "episodes/arc 5 - the hole/ep55 - spookysesh MMXXIV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ep55 - spookysesh MMXXIV"
             }
           },
           {
@@ -101,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -110,8 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "episodes/arc 5 - the hole/ep53 - FF0000 000000 FFFFFF.md"
-              }
+                "file": "episodes/arc 5 - the hole/ep55 - spookysesh MMXXIV.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ep55 - spookysesh MMXXIV"
             }
           }
         ]
@@ -133,39 +147,43 @@
   },
   "active": "41c608fbae485368",
   "lastOpenFiles": [
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
+    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep44 - eternal sunshine of the spotless blood drive.md",
+    "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
+    "episodes/arc 3 - prestige worldwide/ep41 -.md",
+    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
+    "episodes/arc 3 - prestige worldwide/ep38 -.md",
+    "episodes/arc 3 - prestige worldwide/ep39 -.md",
+    "lootz/missplacer cloak.md",
+    "misc attachments/Pasted image 20241028194641.png",
+    "lootz/black doom's gaze.md",
+    "misc attachments/Pasted image 20241028194603.png",
+    "lootz/the undertoe.md",
+    "misc attachments/Pasted image 20241028194526.png",
+    "episodes/arc 5 - the hole/ep55 - spookysesh MMXXIV.md",
+    "lootz/the orb.md",
+    "misc attachments/Pasted image 20241028194444.png",
+    "episodes/arc 5 - the hole/ep54 -.md",
+    "episodes/arc 5 - the hole/ep53 - FF0000 000000 FFFFFF.md",
     "misc attachments/Pasted image 20240829220056.png",
     "misc attachments/Pasted image 20240829220039.png",
     "misc attachments/Pasted image 20240829220023.png",
     "misc attachments/Pasted image 20240829220010.png",
     "misc attachments/Pasted image 20240829215948.png",
     "episodes/arc 5 - the hole/ep52 - drink the raven-aide.md",
-    "episodes/arc 5 - the hole/ep53 - FF0000 000000 FFFFFF.md",
     "episodes/arc 5 - the hole/ep51 - at least 8 strudels for breakfast.md",
     "episodes/arc 5 - the hole/ep50 - de borde's been set.md",
     "episodes/arc 5 - the hole/ep49 - woerm sin, part 2.md",
     "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep43 - family feud.md",
-    "episodes/arc 3 - prestige worldwide/ep42 - there There is.md",
     "episodes/arc 4 - eternal sunshine of the spotless blood drive",
     "lootz/anti-magic choker.md",
     "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep48 - eternal sunshine of the spotless blood drive part 5 - the boys are back in town.md",
     "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep47 - eternal sunshine of the spotless blood drive part 4 - ramen brain.md",
     "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep46 - eternal sunshine of the spotless blood drive part 3 - it's a strange night for mahir.md",
-    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep45 - eternal sunshine of the spotless blood drive part 2 - one gallon of bodily fluids.md",
-    "episodes/arc 4 - eternal sunshine of the spotless blood drive/ep44 - eternal sunshine of the spotless blood drive.md",
-    "episodes/arc 3 - prestige worldwide/ep41 -.md",
-    "episodes/arc 3 - prestige worldwide/ep40 - ten million lightning bugs.md",
-    "episodes/arc 3 - prestige worldwide/ep39 -.md",
-    "episodes/arc 3 - prestige worldwide/ep38 -.md",
     "anniths stuff/current infused items.md",
     "episodes/arc 5 - the hole",
     "Untitled",
     "people/hostower of the arcane/east wing/rosa.md",
-    "people/party/annith.md",
-    "people/hostower of the arcane/east wing/maeven.md",
-    "people/hostower of the arcane/west wing/nymh.md",
-    "episodes/arc 3 - prestige worldwide/ep34 - big k's big day.md",
-    "people/hostower of the arcane/east wing/minerva.md",
-    "people/hostower of the arcane/east wing/isobel.md",
     "people/hostower of the arcane/south wing",
     "people/hostower of the arcane/north wing",
     "people/hostower of the arcane/east wing",

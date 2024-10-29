@@ -1,0 +1,4 @@
+![[Pasted image 20241028194641.png]]
+"A misplaced item of misplaced items. Where could it possibly have come from?"  
+  
+While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated), [restrained](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained), or otherwise unable to move.

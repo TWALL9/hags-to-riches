@@ -1,0 +1,75 @@
+# heil myself
+- we are all at hemmend's big fancy party
+- lots of fleshgolems in attendence
+- some cultists too?
+- there's a great big stage, hemmend is performing on her own
+	- facist-core
+- crelypsis's [[the orb]] ( [[ep50 - de borde's been set]] ) begins vibrating and we're transported to another place
+# the first other place
+- the place looks like a radio control station
+- there is a corpse resting on the console, a strange device in its hands
+	- the corpse's face is fully of tiny little holes
+- annith identifies the console as being nonmagical, but it has lightning for blood
+- The P.I.T device
+	- looks like a portable radio mixed with an oscilloscope
+	- there's a tinkling sound inside it, something is wrong
+	- inside, there is a loose wire, annith fixes it
+	- the device comes to life, audio recordings inside
+	- annith also learns how to record with the device
+		- there is finite space on it though
+	- the device is also a radio
+- in this room there is a closet with what looks like climbing gear and rebreathers
+- there is also a smashed window in this room that looks out to...somewhere, and a few doors
+	- the window opens to a steel catwalk
+	- the catwalk exposes the outside, which appears to be some kind of mountainside
+	- we're on the edge of a cliff?
+	- there is a set of stairs down from the catwalk, that leads to a rope bridge across a hole, approx 1km wide
+		- it appears very dilapidated
+		- there is another structure on the far end, goes into the pit
+	- there are red sparkles across the canyon, red sparkly lights
+- crelypsis no longer has [[the orb]]
+- audio recordings
+	- there were two people here, one has a broken leg
+	- over time, the people start disappearing/leaving
+	- i can't get a hold of the people "in bottom" says the broken leg guy when he's all alone
+	- last entry: talking his last lines, but then we hear a buzzing noise, panic in his voice as the buzzing gets louder, then a crash, then static
+		- noise might be insects?
+# bridge birbs
+- getting down to the bridge, kay and sal create two floating disks to allow annith and crelypsis to float across the bridge, but kay and sal have to walk the rotten bridge
+- sal almost falls off, and in doing so the shiny red dots on the cave walls start moving
+- they're the eyes of giant corvids
+- annith shoots at one, but then gets a brainwave
+	- she plays the droning noise from the P.I.T device, in the last audio log
+	- the birds stop approaching, so long as we're playing the part of the log where the man is screaming for his life and the droning is blaring
+- we enter the building on the other side
+# the second other place
+- find a room with the downward shaft, it is a really really really long staircase
+- this room is full of steel bars, intentionally in disarray. like it was destroyed on purpose
+	- tetanus central
+- can hear a sound below us, vaguely like speech, crying or laughing
+- there's a creature down here leaving goop
+	- goop that will glue you to the walls
+	- can hear it slapping about
+- getting lower, we can hear more of the voices
+	- multiple voices, but they're talking past each other, not at each other
+	- the conversations make no sense
+	- almost never hear the same voice twice
+		- one character discusses a work frustration
+		- then a child crying
+		- then a dog barking
+		- etc
+- these voices are coming from a vent
+	- don't know where they are coming from
+- as we get lower and lower, the path becomes more and more treacherous 
+	- eventually the whole shaft is at a tilt
+
+# bottom
+- there's a strange, steel construction down here
+- appears to be the source of the strange noise
+- off in the distance, the peaks of some buildings
+- there is a zipline from the higher platform we're on but it's sketchy
+- we're able to get to the bottom by using others as brakes, but crelypsis is the last person, and has no brakes. she hits the cave wall with some vibration
+- creatures are coming out of the walls
+	- the P.I.T Leech
+	- about the size of a human limb
+	- 
